@@ -78,4 +78,4 @@ npm i -g --quiet @google/clasp
 echo "Testa o clasp"
 clasp -v
 
-echo "Se apareceu uma mensagem de comando não encontrado, houve algum erro na instlação"
+echo "Se apareceu uma mensagem de comando não encontrado, houve algum erro na instalação"
